@@ -1,7 +1,8 @@
 # CatifyMe
 <img src='assets/banner1.png' alt="banner"></img>
 
-> **Vuoi scoprire come funziona l'app e la logica usata per creare il codice?** > 🔗 [Visita il sito ufficiale per saperne di più](https://catifyme.pages.dev/)
+> **Vuoi scoprire come funziona l'app e la logica usata per creare il codice?**
+> 🔗 [Visita il sito ufficiale per saperne di più](https://catifyme.pages.dev/)
 
 ---
 
